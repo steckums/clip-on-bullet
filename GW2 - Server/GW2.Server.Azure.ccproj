@@ -11,7 +11,7 @@
     <RootNamespace>GW2___Server</RootNamespace>
     <AssemblyName>GW2___Server</AssemblyName>
     <StartDevelopmentStorage>True</StartDevelopmentStorage>
-    <Name>GW2 - Server</Name>
+    <Name>GW2.Server.Azure</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
