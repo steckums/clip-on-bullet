@@ -34,7 +34,7 @@ namespace GW2.Server.Worker
 
             //This will initialize structuremap. You can use ObjectFactory.GetInstance<IRepository<Entity>>(); to get repositories, for example.
             ObjectFactory.Initialize(f=>f.AddRegistry(new ServerRegistry()));
-
+            
             // For information on handling configuration changes
             // see the MSDN topic at http://go.microsoft.com/fwlink/?LinkId=166357.
 
